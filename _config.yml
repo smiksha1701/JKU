@@ -21,7 +21,11 @@
 title: AUSS JKU 
 telegram: uss_1701
 email: sakevich2001@gmail.com
-
+header_pages:
+  - Start.md
+  - Gov_help.md
+  - Education.md
+  - Contacts.md
 description: >- # this means to ignore newlines until "baseurl:"
   This site is created by ukrainian student and group of volonteers to help students from Ukraine continue their studies in JKU
 baseurl: "/JKU" # the subpath of your site, e.g. /blog
