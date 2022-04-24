@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Easter"
+date:   2022-04-24
+categories: jekyll update
+---
+![Easter]({{ site.baseurl }}/data/Easter.jpeg)
