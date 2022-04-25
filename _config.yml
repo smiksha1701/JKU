@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   By ukrainian students - for ukrainian students 
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://smiksha1701.github.io/JKU/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/smiksha1701/JKU" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "" # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
