@@ -1,0 +1,14 @@
+- title: Home
+  url:   ""
+
+- default: menu_category
+  url:   "category"
+
+- title: Start
+  url: "start"
+
+- title: Contacts
+  url:   "contacts"
+
+- title: Education
+  url:   "edu"

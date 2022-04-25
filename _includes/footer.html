@@ -1,38 +1,6 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li>Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-            {%- if site.telegram -%}
-            <li>Telegram:<a class="u-telegram" href="https://t.me/{{ site.telegram }}">@{{ site.telegram }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
+<div class="footer-copyright">
+  
+  <span class="footer-copyright-text float-right">
+    Powered by <a href="https://github.com/smiksha1701">Smiksha</a>, themed by <a href="https://github.com/smiksha1701/JKU">JKU</a>.{{ site.time | date: '%Y' }}
+  </span>
+</div>
