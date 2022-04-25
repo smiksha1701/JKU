@@ -7,9 +7,9 @@
 {% endif %}
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" href="/favicon.ico"/>
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/base.css" />
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/highlight.css" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/base.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/highlight.css" />
 
 <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -19,6 +19,6 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async ></script>
 {% endif %}
 {% if site.mermaid %}
-<script src="{{ site.baseurl }}/assets/script/jekyllpaper.js" async ></script>
+<script src="{{ site.url }}/assets/script/jekyllpaper.js" async ></script>
 <script src="https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js" onload="javascript:loadMermaid();" async></script>
 {% endif %}

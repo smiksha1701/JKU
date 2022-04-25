@@ -82,16 +82,16 @@ Course search. В меню аll curricula оберіть свій
 
 #### Австрійський банк
 Завдяки перемовинам з Австрійськими банками, ви також, як студенти, можете відкрити картки. 
-Ось [гайд]({{ site.baseurl }}/assets/images/AUSS.banking.pdf) по відкриттю в SPARKASSE.
+Ось [гайд]({{ site.url }}/assets/images/AUSS.banking.pdf) по відкриттю в SPARKASSE.
 
 #### Виплати
 Також для підтримки студенства організовані такі виплати:
 + Одноразові
     + [1000€ фінансової допомоги від ÖH](https://www.oeh.ac.at/soforthilfe)*
-    + [200€ домомоги від Borealis AG]({{ site.baseurl }}/assets/images/200.pdf)*
+    + [200€ домомоги від Borealis AG]({{ site.url }}/assets/images/200.pdf)*
 
 + Стипендії 
-    + [715€ стипендія в місяць]({{ site.baseurl }}/assets/images/Schoolarship.pdf)*
+    + [715€ стипендія в місяць]({{ site.url }}/assets/images/Schoolarship.pdf)*
 
 + [Фінансова допомога від держави](/support/)
 
@@ -100,7 +100,7 @@ Course search. В меню аll curricula оберіть свій
 *** *Для отримання цих виплат обов'язково мати карту [Австрійского банку](#австрійський-банк)***
 
 ## Що ще?
-Про всі новини ви можете дізнатися [тут]({{site.baseurl}}/) 
+Про всі новини ви можете дізнатися [тут]({{site.url}}/) 
 
 P.S. Усі рекомендації, побажання та знайдені помилки відправляйте мені в [telegram](https://t.me/uss_1701)
 

@@ -16,10 +16,10 @@
 title: AUSS Group
 email: sakevich2001@gmail.com
 name: Michael
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "url:"
   By ukrainian students - for ukrainian students 
 keywords: [Your keywords]
-baseurl: "https://github.com/smiksha1701/JKU/tree/gh-pages" # the subpath of your site, e.g. /blog
+url: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "" # the domain name for your site, e.g. example.com
 language: en
