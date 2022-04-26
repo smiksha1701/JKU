@@ -51,15 +51,7 @@ sass:
   sass_dir: _sass
   style: expanded # compressed, compact, expanded or compressed
 
-# Category settings
-jekyll-archives:
-  enabled: 
-    - categories
-    - tags
-  layout: archive
-  permalinks:
-    category: /category/:name/
-    tag: /tag/:name/
+
 
 # Build settings
 markdown: kramdown
@@ -67,7 +59,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-archives
   - jekyll-seo-tag
 
 # Exclude from processing.
