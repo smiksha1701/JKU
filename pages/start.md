@@ -87,7 +87,7 @@ Course search. В меню аll curricula оберіть свій
 #### Виплати
 Також для підтримки студенства організовані такі виплати:
 + Одноразові
-    + [1000€ фінансової допомоги від ÖH](https://www.oeh.ac.at/soforthilfe)*
+    + [1000€ фінансової допомоги від ÖH](https://docs.google.com/document/d/1RkV1yGIMlxHf0vEpJvS7n5cWqdhACFEDcAUClawmX7o)*
     + [200€ домомоги від Borealis AG]({{ site.baseurl }}/assets/images/200.pdf)*
 
 + Стипендії 
@@ -100,7 +100,21 @@ Course search. В меню аll curricula оберіть свій
 *** *Для отримання цих виплат обов'язково мати карту [Австрійского банку](#австрійський-банк)***
 
 ## Що ще?
-Про всі новини ви можете дізнатися [тут]({{site.baseurl}}/) 
+Корисні посилання:
+
++ Відповіді на питання можуть також бути на [сторінці для українців від JKU](https://www.jku.at/en/international-welcome-center-and-student-ombuds-office/jku-linz-for-ukrainian-displaced-people/)
+
+
+
++ [Сторінка інфопоінта для українців Лінц (Facebook)](https://www.facebook.com/Info-Point-for-Ukrainians-Linz-O%C3%96-102536809062822/)
+
++ [Menza-bonus](https://docs.google.com/document/d/1H2LlTjNsVp6auoo-d1sRcDf3J8u8N5LzpOjmFjXVgr4) (знижки в кафе біля JKU)
+
++ [Регламент щодо CoViD в Австрії](https://docs.google.com/document/d/1D4AoLyvr5TDpWL8f_Iq1N1BUe_uP_ii-v7bSNKS8y94)
+
++ Також існує ще такий [сайт](https://storinka.at) з новинами.
+
+За новинами ви можете слідкувати [тут]({{site.baseurl}}/)
 
 P.S. Усі рекомендації, побажання та знайдені помилки відправляйте мені в [telegram](https://t.me/uss_1701)
 
