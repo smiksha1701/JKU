@@ -1,14 +1,14 @@
 - title: Home
-  url:   "JKU/"
+  url:   "/"
 
 - default: menu_category
-  url:   "category"
+  url:   "/category"
 
 - title: Start
-  url: "start"
+  url: "/start"
 
 - title: Contacts
-  url:   "contacts"
+  url:   "/contacts"
 
 - title: Education
-  url:   "edu"
+  url:   "/edu"
