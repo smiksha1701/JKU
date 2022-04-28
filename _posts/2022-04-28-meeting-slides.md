@@ -7,4 +7,4 @@ layout​: ​post
 ​tags​: ​[Important, JKU] 
 ---
 
-![Slides]({{ site.baseurl }}/assets/images/Presentation_MORE.pdf)
+[Slides]({{ site.baseurl }}/assets/images/Presentation_MORE.pdf)
