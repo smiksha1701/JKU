@@ -1,6 +1,6 @@
 ---
 layout​: ​post
-​title​: "Meeting slides"
+title: "Meeting slides"
 date: 2022-04-28
 ​last_modified_at​: 2022-04-28
 ​categories​: ​[Useful] 
