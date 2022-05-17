@@ -1,10 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "WANTED: Team for posting"
-date:   2022-04-26
-last_modified_at: 2022-05-26
-categories: [Volunteer]
-tags: [Site, IT]
+permalink: /volunteer
 ---
 Привіт, я ~~Dungen Master~~ власник цього сайту. Як бачиш на моєму сайті зараз не так багато структурованої і корисної інформації.
 
