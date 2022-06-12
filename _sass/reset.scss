@@ -1,9 +1,13 @@
 @charset "utf-8";
-
+@font-face {
+  font-family: F16;
+  src: url($baseurl+"/assets/images/Chilanka-Regular.ttf") format('truetype');
+  font-style: normal;
+}
 * {
   margin: 0;
   padding: 0;
-  font-family:  'Chilanka', cursive;;
+  font-family:  'F16', cursive;;
 }
 
 html, body {
