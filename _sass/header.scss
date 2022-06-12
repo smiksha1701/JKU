@@ -6,13 +6,26 @@
   margin: 10px;
 }
 
-.header-info-name {
-  font-size: 2em;
-  font-weight: bold;
+
+.half-color {
+  padding:0px;
+	position:relative;
+	font-size:2em;
+ 	color:#FFD600;
+}
+.half-color:before{
+	content: attr(attribute);
+	color:BLUE;
+	position:absolute;
+	top:0;
+	left:0;
+	height:40%;
+	overflow:hidden;
 }
 
 .header-info-desc {
   font-size: .9em;
+  
 }
 
 .header-main-nav {
